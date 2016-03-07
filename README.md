@@ -1,11 +1,18 @@
-# Relocation and living in Finland
+# Как переехать в Финляндию и начать жить
 
-Q&A about relocating to Helsinki, Finland. All answers are based on our own experience.
+Вопросы и ответы о переезде и жизни в Финляндии (Хельсинки). Все ответы основаны на личном опыте. Информация разделена на несколько документов по темам:
 
-##How can I submit a question?
+* [Основание для переезда и другие юридические подробности](README-Legal.md)
+* [Переезд и первые шаги после](README-Moving.md)
+* [Жизнь в Финляндии](README-Everyday-Life.md)
+* [Работа в Финляндии](README-Everyday-Work.md)
+* [Медицина в Финляндии](README-Healf-Care.md)
+* [Организация бизнеса в Финляндии](README-Business.md)
 
-Please, create an [Issue](https://github.com/varya/living-in-finland/issues) or a Pull Request. Questions are accepted in English (in case it is difficult for you to express yourself in English we could consider Russian as well).
+##Как задать вопрос?
 
-## Credits
+Создайте [issue](https://github.com/varya/living-in-finland/issues). Вопросы принимаются на русском, ответы тоже даются на русском.
 
-See also [Relocation to Berlin, Germany](https://github.com/azproduction/relocating-to-berlin)
+## Похожие проекты
+
+* [Relocation to Berlin, Germany](https://github.com/azproduction/relocating-to-berlin)
