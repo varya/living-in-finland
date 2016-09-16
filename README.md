@@ -6,7 +6,10 @@
 * [Переезд и первые шаги после](README-Moving.md)
 * [Жизнь в Финляндии](README-Everyday-Life.md)
 * [Работа в Финляндии](README-Everyday-Work.md)
+* [Расходы](README-Expenses.md)
+* [Машина](README-Car.md)
 * [Медицина в Финляндии](README-Healf-Care.md)
+* [Ребёнок](README-Child.md)
 * [Организация бизнеса в Финляндии](README-Business.md)
 
 ##Как задать вопрос?
